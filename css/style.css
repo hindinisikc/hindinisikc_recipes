@@ -5,8 +5,10 @@
 @import 'about.css';
 
 :root {
-  --primary-color: #ffffff;
-    --secondary-color: #36302B;
+    --primary-color: #ffffff;
+    --secondary-color: #1b1a1b;
+    --tertiary-color: #eee1ca2a;
+    --quaternary-color: #2b2a2a;
 }
 
 body {
