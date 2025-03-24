@@ -2,6 +2,7 @@
 @import 'header.css';
 @import 'uiverse.css';
 @import 'food_icon_bar.css';
+@import 'about.css';
 
 :root {
   --primary-color: #ffffff;
