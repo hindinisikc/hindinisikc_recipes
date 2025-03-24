@@ -21,12 +21,12 @@
 .about-context h2 {
     font-size: 64px;
     font-weight: bold;
-    color: var(--secondary-color);
+    color: var(--black);
 }
 
 .about-context p {
     font-size: 24px;  
     font-size:24px;
     font-weight: 500;
-    color: var(--secondary-color);
+    color: var(--black);
 }

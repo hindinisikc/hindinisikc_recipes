@@ -3,18 +3,22 @@
 @import 'uiverse.css';
 @import 'food_icon_bar.css';
 @import 'about.css';
+@import 'favorites.css';
 
 :root {
     --primary-color: #ffffff;
     --secondary-color: #1b1a1b;
     --tertiary-color: #eee1ca2a;
     --quaternary-color: #2b2a2a;
+    --white: #ffffff;
+    --black: #1b1a1b
+
 }
 
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
-    background: var(--primary-color);
+    background: var(--white);
     text-align: center;
 }

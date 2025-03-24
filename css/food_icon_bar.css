@@ -22,16 +22,16 @@
 
 .food-logo-bar ul li {
     font-size: 4rem;
-    color: var(--quaternary-color);
+    color: var(--black);
 }
 
 .food-logo-bar ul li i {
-    color: var(--quaternary-color) !important;
+    color: var(--black) !important;
 }
 
 .food-logo-bar ul li a {
     text-decoration: none;
-    color: var(--quaternary-color);
+    color: var(--black);
 }
 
 
