@@ -1,0 +1,41 @@
+.food-logo-bar {
+    margin-top: 200px;
+    width: 100%;
+    height: 15vh;
+    background-color: var(--secondary-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 0;
+}
+
+.food-logo-bar ul {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+    list-style: none;
+    padding: 0;
+
+}
+
+.food-logo-bar ul li {
+    font-size: 3rem;
+    color: var(--primary-color);
+    gap: 100px;
+}
+
+.food-logo-bar ul li i {
+    color: var(--primary-color) !important;
+}
+
+.food-logo-bar ul li a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.food-logo-bar ul li a:hover {
+    color: var(--secondary-color) !important;
+
+}
